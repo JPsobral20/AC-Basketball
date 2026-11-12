@@ -1,0 +1,15 @@
+year,tmID,predicted_proba,final_prediction
+9,ATL,0.37,0
+9,CHI,0.34,0
+9,CON,0.7,1
+9,DET,0.92,1
+9,HOU,0.63,0
+9,IND,0.9,1
+9,LAS,0.57,0
+9,MIN,0.47,0
+9,NYL,0.88,1
+9,PHO,0.73,1
+9,SAC,0.87,1
+9,SAS,0.79,1
+9,SEA,0.88,1
+9,WAS,0.2,0
