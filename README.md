@@ -1,4 +1,4 @@
-# AC-Basketball – WNBA Data Analytics & Machine Learning
+# AC-Basketball – WNBA Data Analytics And Machine Learning
 
 ## Overview
 
